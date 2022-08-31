@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThePaySourceClient", "ThePaySourceClient.csproj", "{8497C056-EF3B-46AF-88CA-DCBB2D7D9D40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThePaySourceClient.Tests", "..\ThePaySourceClient.Tests\ThePaySourceClient.Tests.csproj", "{D2B776CE-9B57-4BAC-9458-2ECC6229813D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8497C056-EF3B-46AF-88CA-DCBB2D7D9D40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8497C056-EF3B-46AF-88CA-DCBB2D7D9D40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8497C056-EF3B-46AF-88CA-DCBB2D7D9D40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8497C056-EF3B-46AF-88CA-DCBB2D7D9D40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2B776CE-9B57-4BAC-9458-2ECC6229813D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2B776CE-9B57-4BAC-9458-2ECC6229813D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2B776CE-9B57-4BAC-9458-2ECC6229813D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2B776CE-9B57-4BAC-9458-2ECC6229813D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C9C8147-55D9-45D4-8CEB-F45F554DA64D}
+	EndGlobalSection
+EndGlobal
